@@ -5,6 +5,6 @@ title:  "Welcome to Jekyll!"
 
 # Welcome
 
-**Hello world**, first post.
+**Hello world**, this is the first post.
 
 I hope you like it!
