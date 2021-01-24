@@ -1,10 +1,8 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello World"
+date: 2020-01-24
 ---
 
-# Welcome
+First post.
 
-**Hello world**, this is the first post.
 
-I hope you like it!
